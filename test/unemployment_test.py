@@ -1,4 +1,3 @@
-
 from app.unemployment import format_pct, fetch_unemployment_data
 
 
