@@ -102,7 +102,7 @@ if __name__ == "__main__":
 
     fig = line(x=dates, y=rates, title="United States Unemployment Rate over time", labels= {"x": "Month", "y": "Unemployment Rate"})
     fig.show()
-7:31
+
 updated version of our test file:
 
 
