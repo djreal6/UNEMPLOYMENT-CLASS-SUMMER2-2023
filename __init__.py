@@ -1,3 +1,4 @@
+
 # this is the "web_app/__init__.py" file...
 
 from flask import Flask
@@ -15,3 +16,4 @@ def create_app():
 
 if __name__ == "__main__":
     my_app = create_app()
+    my_app.run(debug=True)
