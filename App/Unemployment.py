@@ -103,7 +103,6 @@ if __name__ == "__main__":
     fig = line(x=dates, y=rates, title="United States Unemployment Rate over time", labels= {"x": "Month", "y": "Unemployment Rate"})
     fig.show()
 
-updated version of our test file:
 
 
 from app.unemployment import format_pct, fetch_unemployment_data
