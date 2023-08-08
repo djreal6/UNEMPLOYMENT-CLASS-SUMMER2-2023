@@ -8,7 +8,7 @@ Obtain an [AlphaVantage API Key](https://www.alphavantage.co/support/#api-key). 
 
 create a virtual environment
 '''sh
-conda create -n unemployment-env python=3.7
+conda create -n unemployment-env python=3.10
 '''
 
 '''sh
