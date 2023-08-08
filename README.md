@@ -42,7 +42,7 @@ pytest
 Run the web app:
 
 '''sh
-# windowns
+# windows
 
 # ... if `export` doesn't work for you, try `set` instead
 # ... or try a ".env" file approach
