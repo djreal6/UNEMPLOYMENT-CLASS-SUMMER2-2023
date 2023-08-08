@@ -38,3 +38,13 @@ Run tests:
 ```sh
 pytest
 ```
+
+Run the web app:
+
+'''sh
+# windowns
+
+# ... if `export` doesn't work for you, try `set` instead
+# ... or try a ".env" file approach
+export FLASK_APP=web_app
+flask run
