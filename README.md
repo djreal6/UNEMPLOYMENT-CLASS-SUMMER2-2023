@@ -4,7 +4,12 @@
 
 ## Setup
 
-Obtain an [AlphaVantage API Key](https://www.alphavantage.co/support/#api-key). A normal key should be fine, but alternatively you can use one of the prof's "premium" keys.
+Obtain an [AlphaVantage API Key](https://www.alphavantage.co/support/#api-key). A normal key should be fine, but alternatively you can use one of the prof's "premium" keys. The create a file called ".env" and place it inside (like the following example):
+
+'''sh
+# this is the ".env" file (in the root directory of the repo)
+
+ALPHANTAGE_API_KEY="______________"
 
 create a virtual environment
 '''sh
