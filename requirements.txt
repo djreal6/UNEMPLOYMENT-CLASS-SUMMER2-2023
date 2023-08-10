@@ -8,8 +8,8 @@ plotly
 python-dotenv
 
 # for web app:
-flask
-gunicorn
+flask # <--- ADD FOR WEB APP
+gunicorn # <--- ADD FOR HOSTING ON RENDER
 
 
 
